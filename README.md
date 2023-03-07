@@ -40,5 +40,5 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 [Scikit-Learn Standard Scaling](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler)
 
 [Cluster Analysis External Evaluation](https://en.wikipedia.org/wiki/Cluster_analysis#External_evaluation)
-cambio1
+fin1
 
